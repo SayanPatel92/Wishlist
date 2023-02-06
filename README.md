@@ -1,8 +1,8 @@
 # Android Project 2 - *Wishlist*
 
-Submitted by: **Sayan Patel**
+Submitted by: **x**
 
-**Shopping List** is a wishlist app that helps the user keep track of what they want to buy.
+**x** is a wishlist app that helps the user keep track of what they want to buy.
 
 Time spent: **x** hours spent in total
 
