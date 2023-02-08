@@ -28,7 +28,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![WishlistGif](https://user-images.githubusercontent.com/123009393/216907206-babb2202-eb20-4f59-b19a-f6bfe03b122c.gif)
+![WishlistGif](https://user-images.githubusercontent.com/123009393/217589979-421136f9-5d74-40db-a4d3-7a73a4b33234.gif)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
