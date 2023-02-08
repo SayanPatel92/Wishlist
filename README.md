@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Wishlist app is 🎨 **customized** 🎨
+- [x] Wishlist app is 🎨 **customized** 🎨
 - [x] User can delete an item by long pressing on the item
 - [x] User can open an item's URL by clicking on the item
 
@@ -27,7 +27,6 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ![WishlistGif](https://user-images.githubusercontent.com/123009393/217589979-421136f9-5d74-40db-a4d3-7a73a4b33234.gif)
 
 
